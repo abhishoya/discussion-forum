@@ -1,0 +1,16 @@
+body{
+    background: radial-gradient(#004b5e,#001627);
+}
+
+.lead{
+    color: #d6d6d6;
+}
+
+a{
+    color: white;
+}
+
+.dashboard{
+    background-clip: border-box;
+    color: white;
+}

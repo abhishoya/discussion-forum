@@ -1,0 +1,23 @@
+.login .lead{
+    color: white;
+}
+
+.login{
+    margin: auto;
+    margin-top: 10%;
+}
+
+
+.login h1{
+    color: white;
+}
+
+.login form{
+    margin-left: 25%;
+    width: 50%;
+    align-items: center;
+}
+
+.login form input::placeholder{
+    font-size: 70%;
+}

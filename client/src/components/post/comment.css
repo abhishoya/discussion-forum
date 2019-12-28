@@ -1,0 +1,18 @@
+.comment{
+    height: 25vh;
+    color: black;
+}
+
+.comment .lead{
+    font-size: 80%;
+    color: black;
+}
+
+.comment img{
+    height: 40%;
+    width: auto;
+}
+
+.comment .user{
+    font-size: 70%;
+}
